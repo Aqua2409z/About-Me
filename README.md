@@ -1,2 +1,27 @@
-# About-Me
-Sinh viên năm 3 chuyên ngành Kỹ thuật Phần mềm tại Đại học FPT. Đam mê xây dựng các sản phẩm Web hiện đại, hiệu năng cao và có trải nghiệm người dùng mượt mà. Đang tích cực chuẩn bị cho kỳ thực tập doanh nghiệp (OJT) với nền tảng kiến thức vững chắc về React, Spring Boot, và quy trình phát triển phần mềm chuẩn Agile.
+# Anh Khoa — Portfolio
+
+Portfolio của Anh Khoa, sinh viên năm 3 ngành Thiết kế Đồ họa / UI-UX.
+
+## Stack
+
+- Next.js 14 (App Router) + TypeScript
+- GSAP 3 + Lenis smooth scroll
+- Custom WebGL noise shader background
+- Magnetic buttons + custom cursor
+- Page transition curtain
+
+## Phát triển cục bộ
+
+```bash
+npm install
+npm run dev
+```
+
+Mở http://localhost:3000.
+
+## Build production
+
+```bash
+npm run build
+npm run start
+```
